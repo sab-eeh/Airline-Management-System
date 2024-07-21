@@ -1,0 +1,13 @@
+Flight No |   Dates   |  Airline |   From    |   To   | Departure Time | Arrival Time | Fare  | 
+------------------------------------------------------------------------------------------------
+    102   |  15/1/24  | Emirates |  Karachi  | Saudia |    9:00 PM     |   11:30PM    | 150000|
+    259   |  17/1/24  |   PIA    |  Karachi  |  Isb   |    6:20 AM     |   7:00 AM    | 50000 |
+    131   |  12/1/24  |  Qatar   |  Karachi  | Qatar  |    12:00 AM    |   3:00 PM    | 70000 |
+    428   |  15/1/24  | Gulf Air |  Karachi  | lahore |    2:00 PM     |   3:00 PM    | 40000 |
+    567   |  16/1/24  | Emirates |  Karachi  | Jeddah |    4:00 PM     |   7:00 PM    | 85000 |
+    321   |  18/1/24  | Air blue |  Karachi  | Dubai  |    11:00 PM    |   12:00 AM   | 55000 |
+    542   |  13/1/24  |  Eithad  |  Karachi  | Saudia |    8:20 PM     |   10:00 PM   | 62000 |
+    194   |  14/1/24  |   PIA    |  Karachi  | Quetta |    5:50 PM     |   6:30 PM    | 35000 |
+    115   |  14/2/24  | Gulf Air |  Karachi  |  UAE   |    11:40 AM    |   1:00 PM    | 75000 | 
+    89    |  19/1/24  | Emirates |  Karachi  | Canada |    7:15 AM     |   2:00 PM    | 120000| 
+    201   |  18/1/24  | Air blue |  Karachi  | Saudia |    1:40 PM     |   3:00 PM    | 63000 | 

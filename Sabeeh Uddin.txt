@@ -1,0 +1,10 @@
+Name: Sabeeh Uddin 
+Flight number: 102 
+Passport number: ABCDE1111 
+Phone number: 03312904878 
+Email Address: usabeeh72@gmail.com 
+Class: business 
+Date Of Birth: 09/06/2005 
+Seats Reserved: 10 
+Flight No |   Dates   |  Airline |   From    |   To   | Departure Time | Arrival Time | Fare  | 
+    201   |  18/1/24  | Air blue |  Karachi  | Saudia |    1:40 PM     |   3:00 PM    | 63000 |  
